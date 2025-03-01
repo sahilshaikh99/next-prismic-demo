@@ -1,0 +1,18 @@
+{
+  "format": "custom",
+  "id": "nav",
+  "label": "nav",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "logo": {
+        "type": "Text",
+        "config": {
+          "label": "logo",
+          "placeholder": "enter website name"
+        }
+      }
+    }
+  }
+}
